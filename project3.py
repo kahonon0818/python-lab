@@ -1,5 +1,5 @@
-username = input("Enter username : ")
-password = input("Enter password : ")
+username="admin"
+password="admin"
 
 if username == "admin" and password == "admin":
     print("successfully login")
